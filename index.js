@@ -7,10 +7,10 @@ const FormData = require('form-data');
 const CONFIG = {
 
     DISCORD_WEBHOOK_URL:
-        'https://discord.com/api/webhooks/1559441345146392688/j2pGCwrVU7yEmobK6IdWYRuizpADtMXfYDUvYO4KyFC0uSZcL0CnU7dlU7npw5jtIIhr',
+        'URL',
 
 
-    WHATSAPP_GROUP_ID: '120363426677047001@g.us',
+    WHATSAPP_GROUP_ID: '130......1@g.us',
 };
 
 
